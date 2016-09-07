@@ -1,6 +1,8 @@
 	<?php
 /**
 	* Plugin Name: Banner Appear 242
+	* 
+	* Author: J
 */
 
 
